@@ -1,1 +1,1 @@
-![CI](https://github.com/YOURNAME/simple-git-github-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/RAHULCHOUHAN/simple-git-github-pipeline/actions/workflows/ci.yml/badge.svg)
