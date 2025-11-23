@@ -6,4 +6,4 @@ def test_greet():
 from app import greet1
 
 def test_greet():
-    assert greet1() == "Wrong Value!"
+    assert greet1() == "Hello Devops New!"
